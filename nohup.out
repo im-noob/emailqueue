@@ -1,0 +1,2 @@
+[2020-01-28 06:51:49][5] Processing: App\Jobs\SendEmailJob
+[2020-01-28 06:51:53][5] Processed:  App\Jobs\SendEmailJob
